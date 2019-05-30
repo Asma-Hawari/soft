@@ -1,5 +1,5 @@
 
-#Admin panel to manage companies
+Admin panel to manage companies
 Basically, project to manage companies and their employees. Mini-CRM.
 Basic Laravel Auth: ability to login as administrator
 Use database seeds to create first user with email admin@admin.com and password “password”
